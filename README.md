@@ -1,6 +1,7 @@
 # webgl-demo
 
-vue3、webgl（leaflet、百度、高德）、联系demo
+vue3、webgl（leaflet、百度、高德）、练习demo
+js、vue3语法（暂不支持ts、vite）
 
 ## Project setup
 ```
